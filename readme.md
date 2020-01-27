@@ -1,0 +1,2 @@
+# Checkers
+Author: Joseph Sturm
